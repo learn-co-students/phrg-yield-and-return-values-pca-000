@@ -152,4 +152,7 @@ end
 
 And that's it! We've successfully built our own iteration using a `while` loop, `yield`ed each individual member of an array to a block and captured the return values of yielding those items to the block. This is exactly how the `#collect` method works, and we've just built it out, all by ourselves. 
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-yield-and-return-values/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-yield-and-return-values/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Code Along: Yielding and Return Values</p>
